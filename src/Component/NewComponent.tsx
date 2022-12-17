@@ -1,7 +1,8 @@
 import React from "react";
-import {currentMoneyType, FilterType, MoneyFilterType} from "../App";
+//import {currentMoneyType, FilterType, MoneyFilterType} from "../App";
 
 
+/*
 type currentType = {
     currentMoney: Array<MoneyFilterType>
     onClickFilterHandler: (nameButton: FilterType) => void
@@ -27,4 +28,4 @@ export const NewComponent = (props:currentType) => {
                 <button onClick={()=>props.onClickFilterHandler('DOLLAR')}>DOLLARS</button>
             </div></>
     )
-}
+}*/
